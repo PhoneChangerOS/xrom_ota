@@ -1,0 +1,12 @@
+{
+  "xflash": {
+    "name": "xFLASH",
+    "version": "v1.0.0",
+    "date": "2026-04-08",
+    "size_bytes": 0,
+    "download_url": "https://drive.google.com/file/d/REPLACE_WITH_XFLASH_FILE_ID/view?usp=sharing",
+    "changelog": [
+      "Initial release"
+    ]
+  }
+}

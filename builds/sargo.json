@@ -2,6 +2,7 @@
   "codename": "sargo",
   "vendor": "Google",
   "model": "Pixel 3a",
+  "image_url": "https://affirm.straighttalk.com/wp-content/uploads/2021/12/Google_Pixel_3a_600x600.png",
   "builds": [
     {
       "version": "v7.0",

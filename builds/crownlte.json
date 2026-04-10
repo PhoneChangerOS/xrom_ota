@@ -1,0 +1,21 @@
+{
+  "codename": "crownlte",
+  "vendor": "Samsung",
+  "model": "Galaxy Note 9",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
+  "builds": [
+    {
+      "version": "v2.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1775830020,
+      "size_bytes": 1451238457,
+      "filename": "XROM_crownlte-13.0-20260410-1407-OFFICIAL.zip",
+      "md5": "c43cbca165cd1020a738d4d5c6d2cd96",
+      "download_url": "https://drive.google.com/file/d/1GfBHtCfClx1gETglCMrxh0_EqEo4-fra/view?usp=sharing",
+      "changelog": [
+        "Verison 2.0"
+      ]
+    }
+  ]
+}

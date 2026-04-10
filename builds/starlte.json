@@ -1,0 +1,21 @@
+{
+  "codename": "starlte",
+  "vendor": "Samsung",
+  "model": "Galaxy S9",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
+  "builds": [
+    {
+      "version": "v2.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1775826120,
+      "size_bytes": 1450365011,
+      "filename": "XROM_starlte-13.0-20260410-1302-OFFICIAL.zip",
+      "md5": "8f583bd2c5c0e987ef8e2a5f6b2aa33f",
+      "download_url": "https://drive.google.com/file/d/1iQtbiMhukGihB3PenhEBvhhODs_Ou0P-/view?usp=sharing",
+      "changelog": [
+        "Verison 2.0"
+      ]
+    }
+  ]
+}

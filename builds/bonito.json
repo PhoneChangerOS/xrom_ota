@@ -1,0 +1,21 @@
+{
+  "codename": "bonito",
+  "vendor": "Google",
+  "model": "Pixel 3a XL",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/bonito.png",
+  "builds": [
+    {
+      "version": "v2.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1775817960,
+      "size_bytes": 1448080886,
+      "filename": "XROM_bonito-13.0-20260410-1046-OFFICIAL.zip",
+      "md5": "c9b4f376d5d82cb5591b45af38bf700e",
+      "download_url": "https://drive.google.com/file/d/168PrC2NTrapgctXePC5AOIFtAOWn7G2C/view?usp=sharing",
+      "changelog": [
+         "Verison 2.0"
+      ]
+    }
+  ]
+}

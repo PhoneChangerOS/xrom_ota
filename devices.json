@@ -1,6 +1,7 @@
 [
   { "codename": "sargo", "vendor": "Google", "model": "Pixel 3a", "active": true },
   { "codename": "bonito", "vendor": "Google", "model": "Pixel 3a XL", "active": true },
+  { "codename": "coral", "vendor": "Google", "model": "Pixel 4 XL", "active": true },
   { "codename": "starlte", "vendor": "Samsung", "model": "Galaxy S9", "active": true },
   { "codename": "star2lte", "vendor": "Samsung", "model": "Galaxy S9+", "active": true },
   { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true }

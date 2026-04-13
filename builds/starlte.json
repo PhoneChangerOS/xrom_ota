@@ -5,16 +5,16 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
   "builds": [
     {
-      "version": "v2.0",
+      "version": "v2.1",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1775826120,
-      "size_bytes": 1450365011,
-      "filename": "XROM_starlte-13.0-20260410-1302-OFFICIAL.zip",
-      "md5": "8f583bd2c5c0e987ef8e2a5f6b2aa33f",
-      "download_url": "https://drive.google.com/file/d/1iQtbiMhukGihB3PenhEBvhhODs_Ou0P-/view?usp=sharing",
+      "date": 1776087480,
+      "size_bytes": 1450582302,
+      "filename": "XROM_starlte-13.0-20260413-1338-OFFICIAL.zip",
+      "md5": "b3c53a72d0a4d62f3d6e2146417e5198",
+      "download_url": "https://drive.google.com/file/d/1VRJwgudWmjk1olUsY__kMPicYAJDRaUt/view?usp=sharing",
       "changelog": [
-        "Verison 2.0"
+        "Support both Camera API 1 and API 2"
       ]
     }
   ]

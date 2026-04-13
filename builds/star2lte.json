@@ -5,16 +5,16 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/star2lte.png",
   "builds": [
     {
-      "version": "v2.0",
+      "version": "v2.1",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1775828040,
-      "size_bytes": 1450559145,
-      "filename": "XROM_star2lte-13.0-20260410-1334-OFFICIAL.zip",
-      "md5": "f5f688fadc7148e4f252f5961c9b0d3b",
-      "download_url": "https://drive.google.com/file/d/1gyrwdFfxu_r-rpl6U1i-_ZmkZ8Jm3z_3/view?usp=sharing",
+      "date": 1776090480,
+      "size_bytes": 1450861715,
+      "filename": "XROM_star2lte-13.0-20260413-1428-OFFICIAL.zip",
+      "md5": "d785376d120bb1a9cb0d5d0157530875",
+      "download_url": "https://drive.google.com/file/d/1pFxN0eTDS0eQ9-2EkSSh9a3ICaZaFjyn/view?usp=sharing",
       "changelog": [
-        "Verison 2.0"
+        "Support both Camera API 1 and API 2"
       ]
     }
   ]

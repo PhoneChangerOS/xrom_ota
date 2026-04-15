@@ -5,16 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
   "builds": [
     {
-      "version": "v2.1",
+      "version": "v2.2",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776087480,
-      "size_bytes": 1450582302,
-      "filename": "XROM_starlte-13.0-20260413-1338-OFFICIAL.zip",
-      "md5": "b3c53a72d0a4d62f3d6e2146417e5198",
-      "download_url": "https://drive.google.com/file/d/1VRJwgudWmjk1olUsY__kMPicYAJDRaUt/view?usp=sharing",
+      "date": 1776267780,
+      "size_bytes": 1450564905,
+      "filename": "XROM_starlte-13.0-20260415-1543-OFFICIAL.zip",
+      "md5": "5e84bf372feb1495b877b1e6df9cfaf7",
+      "download_url": "https://drive.google.com/file/d/1OakrHAsZgANt7OH36uwDi2H5gvFbb6xk/view?usp=sharing",
       "changelog": [
-        "Support both Camera API 1 and API 2"
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher"
       ]
     }
   ]

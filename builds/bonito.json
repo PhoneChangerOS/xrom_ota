@@ -5,16 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/bonito.png",
   "builds": [
     {
-      "version": "v2.0",
+      "version": "v2.2",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1775817960,
-      "size_bytes": 1448080886,
-      "filename": "XROM_bonito-13.0-20260410-1046-OFFICIAL.zip",
-      "md5": "c9b4f376d5d82cb5591b45af38bf700e",
-      "download_url": "https://drive.google.com/file/d/168PrC2NTrapgctXePC5AOIFtAOWn7G2C/view?usp=sharing",
+      "date": 1776234240,
+      "size_bytes": 1448048589,
+      "filename": "XROM_bonito-13.0-20260415-0624-OFFICIAL.zip",
+      "md5": "b67afd7acc4a67f24c997d4ee2d6c7bc",
+      "download_url": "https://drive.google.com/file/d/1Dm8hP4m8Li9zQF0mGOmfzRZl2T3eRK3O/view?usp=sharing",
       "changelog": [
-         "Verison 2.0"
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher"
       ]
     }
   ]

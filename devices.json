@@ -4,5 +4,11 @@
   { "codename": "coral", "vendor": "Google", "model": "Pixel 4 XL", "active": true },
   { "codename": "starlte", "vendor": "Samsung", "model": "Galaxy S9", "active": true },
   { "codename": "star2lte", "vendor": "Samsung", "model": "Galaxy S9+", "active": true },
-  { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true }
+  { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true },
+  { "codename": "beyond1lte", "vendor": "Samsung", "model": "Galaxy S10", "active": false },
+  { "codename": "beyond2lte", "vendor": "Samsung", "model": "Galaxy S10+", "active": false },
+  { "codename": "beyondx", "vendor": "Samsung", "model": "Galaxy S10 5G", "active": false },
+  { "codename": "d2s", "vendor": "Samsung", "model": "Galaxy Note 10", "active": false },
+  { "codename": "d1s", "vendor": "Samsung", "model": "Galaxy Note 10+", "active": false },
+  { "codename": "d1x", "vendor": "Samsung", "model": "Galaxy Note 10+ 5G", "active": false }
 ]

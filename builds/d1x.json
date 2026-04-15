@@ -1,0 +1,19 @@
+{
+  "codename": "d1x",
+  "vendor": "Samsung",
+  "model": "Galaxy Note 10+ 5G",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/d1x.png",
+  "builds": [
+    {
+      "version": "v2.2",
+      "android": "",
+      "variant": "",
+      "date": 0,
+      "size_bytes": 0,
+      "filename": "",
+      "md5": "",
+      "download_url": "",
+      "changelog": []
+    }
+  ]
+}

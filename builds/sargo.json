@@ -5,16 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
-      "version": "v2.0",
+      "version": "v2.2",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1775813520,
-      "size_bytes": 1448367445,
-      "filename": "XROM_sargo-13.0-20260410-0932-OFFICIAL.zip",
-      "md5": "aeb40a0f4e10d8b9d620b28df12ab025",
-      "download_url": "https://drive.google.com/file/d/1NFKHeJpaJSAHSnYhVBhn1vbVPvP4Dmao/view?usp=sharing",
+      "date": 1776226140,
+      "size_bytes": 1448380511,
+      "filename": "XROM_sargo-13.0-20260415-0409-OFFICIAL.zip",
+      "md5": "c706b5630e5309c64d60ddd8be574558",
+      "download_url": "https://drive.google.com/file/d/1JKzR5SWlPxMwJf76jvcGmHM_i9OLAXs5/view?usp=sharing",
       "changelog": [
-        "Verison 2.0"
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher"
       ]
     }
   ]

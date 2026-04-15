@@ -6,7 +6,7 @@
   "builds": [
     {
       "version": "v2.2",
-      "android": "",
+      "android": "Android 13",
       "variant": "",
       "date": 0,
       "size_bytes": 0,

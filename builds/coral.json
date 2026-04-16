@@ -5,17 +5,15 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/coral.png",
   "builds": [
     {
-      "version": "v2.0",
+      "version": "v2.3",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1775893620,
-      "size_bytes": 1612503304,
-      "filename": "XROM_coral-13.0-20260411-0747-OFFICIAL.zip",
-      "md5": "9e34a06ce8f803a27791e45d214b4255",
-      "download_url": "https://drive.google.com/file/d/1_IWRy0VkVYlA3AWHGYWqMJQstk_ZP3I2/view?usp=sharing",
-      "changelog": [
-        "Verison 2.0"
-      ]
+      "date": 1776326400,
+      "size_bytes": 1612489651,
+      "filename": "XROM_coral-13.0-20260416-0800-OFFICIAL.zip",
+      "md5": "f3b3eeb291a77c632ade8044a70e8a76",
+      "download_url": "https://drive.google.com/file/d/1xmWB9B3hey7N4Ud3uhP4mupUdHNaORwq/view?usp=sharing",
+      "changelog": []
     }
   ]
 }

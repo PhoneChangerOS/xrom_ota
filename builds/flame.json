@@ -13,7 +13,11 @@
       "filename": "XROM_flame-13.0-20260416-0919-OFFICIAL.zip",
       "md5": "f1fef0f06ffafb65bc6b47f505fea448",
       "download_url": "https://drive.google.com/file/d/15c8fVe5CMBaDs8nZ3ecCLr5u_5VFqXPT/view?usp=sharing",
-      "changelog": []
+      "changelog": [
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher",
+        "Bypass WebRTC"
+      ]
     }
   ]
 }

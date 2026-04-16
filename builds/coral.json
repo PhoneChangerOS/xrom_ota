@@ -13,7 +13,11 @@
       "filename": "XROM_coral-13.0-20260416-0800-OFFICIAL.zip",
       "md5": "f3b3eeb291a77c632ade8044a70e8a76",
       "download_url": "https://drive.google.com/file/d/1xmWB9B3hey7N4Ud3uhP4mupUdHNaORwq/view?usp=sharing",
-      "changelog": []
+      "changelog": [
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher",
+        "Bypass WebRTC"
+      ]
     }
   ]
 }

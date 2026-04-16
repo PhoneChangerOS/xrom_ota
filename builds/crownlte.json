@@ -5,16 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
   "builds": [
     {
-      "version": "v2.1",
+      "version": "v2.2",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776092460,
-      "size_bytes": 1451445655,
-      "filename": "XROM_crownlte-13.0-20260413-1501-OFFICIAL.zip",
-      "md5": "294de51518a87452cd8bbefd518a0d77",
-      "download_url": "https://drive.google.com/file/d/1Ig-M2nZkUW4TLTNuQMNpZr29rbWz07zX/view?usp=sharing",
+      "date": 1776272400,
+      "size_bytes": 1451448316,
+      "filename": "XROM_crownlte-13.0-20260415-1700-OFFICIAL.zip",
+      "md5": "e7fb246968b40153710f153cfa976860",
+      "download_url": "https://drive.google.com/file/d/1aLcvf3abR6d0TrUGhQDu48_jWKlwk0oq/view?usp=sharing",
       "changelog": [
-        "Support both Camera API 1 and API 2"
+        "Improved XCam support for Camera API1 and API2",
+        "Show IP status and ROM name on home launcher"
       ]
     }
   ]

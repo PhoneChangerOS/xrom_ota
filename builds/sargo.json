@@ -12,10 +12,11 @@
       "size_bytes": 1448380511,
       "filename": "XROM_sargo-13.0-20260415-0409-OFFICIAL.zip",
       "md5": "c706b5630e5309c64d60ddd8be574558",
-      "download_url": "https://drive.google.com/file/d/1JKzR5SWlPxMwJf76jvcGmHM_i9OLAXs5/view?usp=sharing",
+      "download_url": "https://drive.google.com/file/d/1htDj8nKBUB5Hwn8bYzq6rJ68UFjrJpS6/view?usp=sharing",
       "changelog": [
         "Improved XCam support for Camera API1 and API2",
-        "Show IP status and ROM name on home launcher"
+        "Show IP status and ROM name on home launcher",
+        "Fix backup/restore"
       ]
     }
   ]

@@ -6,7 +6,7 @@
   { "codename": "starlte", "vendor": "Samsung", "model": "Galaxy S9", "active": true },
   { "codename": "star2lte", "vendor": "Samsung", "model": "Galaxy S9+", "active": true },
   { "codename": "herolte", "vendor": "Samsung", "model": "Galaxy S7", "active": false },
-  { "codename": "hero2lte", "vendor": "Samsung", "model": "Galaxy S7 Edge", "active": false },
+  { "codename": "hero2lte", "vendor": "Samsung", "model": "Galaxy S7 Edge", "active": true },
   { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true },
   { "codename": "beyond1lte", "vendor": "Samsung", "model": "Galaxy S10", "active": false },
   { "codename": "beyond2lte", "vendor": "Samsung", "model": "Galaxy S10+", "active": false },

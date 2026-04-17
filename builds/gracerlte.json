@@ -1,0 +1,19 @@
+{
+  "codename": "gracerlte",
+  "vendor": "Samsung",
+  "model": "Galaxy Note FE",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/gracerlte.png",
+  "builds": [
+    {
+      "version": "v2.3",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1776403740,
+      "size_bytes": 1369778563,
+      "filename": "XROM_gracerlte-13.0-20260417-0529-OFFICIAL.zip",
+      "md5": "2579ab2eb66e2ed34b8c5bf771a722ed",
+      "download_url": "https://drive.google.com/file/d/1sz6ldeqd9eSP1z924TcIeWjVJwMxUXh4/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

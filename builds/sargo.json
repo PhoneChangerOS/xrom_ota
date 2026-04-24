@@ -5,18 +5,19 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
-      "version": "v2.2",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776226140,
-      "size_bytes": 1448380511,
-      "filename": "XROM_sargo-13.0-20260415-0409-OFFICIAL.zip",
-      "md5": "c706b5630e5309c64d60ddd8be574558",
-      "download_url": "https://drive.google.com/file/d/1htDj8nKBUB5Hwn8bYzq6rJ68UFjrJpS6/view?usp=sharing",
+      "date": 1777013640,
+      "size_bytes": 1448440157,
+      "filename": "XROM_sargo-13.0-20260424-0654-OFFICIAL.zip",
+      "md5": "e8ace8ed88e9e399356978c18c94f271",
+      "download_url": "https://drive.google.com/file/d/10aCsyn5NfyqaDyd4nrch0PI7kYPc2t9e/view?usp=sharing",
       "changelog": [
-        "Improved XCam support for Camera API1 and API2",
-        "Show IP status and ROM name on home launcher",
-        "Fix backup/restore"
+        "Update TWRP fix backup/restore full",
+        "Update for Zalo",
+        "Fix SIM",
+        "Fix change"
       ]
     }
   ]

@@ -5,15 +5,22 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/dreamlte.png",
   "builds": [
     {
-      "version": "v2.3",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776608580,
-      "size_bytes": 1415406125,
-      "filename": "XROM_dreamlte-13.0-20260419-1423-OFFICIAL.zip",
-      "md5": "19a1b805c38caa32aff575a99a9c79ed",
-      "download_url": "https://drive.google.com/file/d/13X_G40xBMP1wkFl7wsgUrjSXVtfwTXOg/view?usp=sharing",
-      "changelog": []
+      "date": 1777277340,
+      "size_bytes": 1415366113,
+      "filename": "XROM_dreamlte-13.0-20260427-0809-OFFICIAL.zip",
+      "md5": "920c080ac5302b5a3bf841390e8e6199",
+      "download_url": "https://drive.google.com/file/d/1gnkfoll99Hupsz_EyKjMvXxLg4XcfGiH/view?usp=sharing",
+      "changelog": [
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
+      ]
     }
   ]
 }

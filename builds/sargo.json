@@ -8,10 +8,10 @@
       "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1777161300,
-      "size_bytes": 1448511422,
-      "filename": "XROM_sargo-13.0-20260425-2355-OFFICIAL.zip",
-      "md5": "e6b236451953412ca23782fea5e07568",
+      "date": 1777294620,
+      "size_bytes": 1448412898,
+      "filename": "XROM_sargo-13.0-20260427-1257-OFFICIAL.zip",
+      "md5": "bc2a983f7888f05bb78d8496937b80c6",
       "download_url": "https://drive.google.com/file/d/1qCnHJzxnEAi7faDidE5x_n7GgFqPB8Vp/view?usp=sharing",
       "changelog": [
         "Update TWRP fix backup/restore full",
@@ -20,7 +20,8 @@
         "Fix SIM not detected when inserted",
         "Fix timezone works correctly",
         "Fix change android_id not working",
-        "Display fake uptime via SettingsUI"
+        "Display fake uptime via SettingsUI",
+        "Fix WiFi scan"
       ]
     }
   ]

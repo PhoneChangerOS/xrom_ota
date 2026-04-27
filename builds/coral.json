@@ -5,18 +5,22 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/coral.png",
   "builds": [
     {
-      "version": "v2.3",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776326400,
-      "size_bytes": 1612489651,
-      "filename": "XROM_coral-13.0-20260416-0800-OFFICIAL.zip",
-      "md5": "f3b3eeb291a77c632ade8044a70e8a76",
-      "download_url": "https://drive.google.com/file/d/1xmWB9B3hey7N4Ud3uhP4mupUdHNaORwq/view?usp=sharing",
+      "date": 1777296540,
+      "size_bytes": 1612460491,
+      "filename": "XROM_coral-13.0-20260427-1329-OFFICIAL.zip",
+      "md5": "71b1cb91ddb5fa31f532e8ba26178ba2",
+      "download_url": "https://drive.google.com/file/d/1ghlzgSC1PpTXwApdW1h8Aujhe4WD0g7R/view?usp=sharing",
       "changelog": [
-        "Improved XCam support for Camera API1 and API2",
-        "Show IP status and ROM name on home launcher",
-        "Bypass WebRTC"
+        "Update TWRP fix backup/restore full",
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
       ]
     }
   ]

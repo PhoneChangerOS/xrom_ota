@@ -5,17 +5,21 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
   "builds": [
     {
-      "version": "v2.2",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776267780,
-      "size_bytes": 1450564905,
-      "filename": "XROM_starlte-13.0-20260415-1543-OFFICIAL.zip",
-      "md5": "5e84bf372feb1495b877b1e6df9cfaf7",
-      "download_url": "https://drive.google.com/file/d/1OakrHAsZgANt7OH36uwDi2H5gvFbb6xk/view?usp=sharing",
+      "date": 1777271880,
+      "size_bytes": 1450034357,
+      "filename": "XROM_starlte-13.0-20260427-0638-OFFICIAL.zip",
+      "md5": "c3745519fd312da6a94635d81b17e88b",
+      "download_url": "REPLACE_ME",
       "changelog": [
-        "Improved XCam support for Camera API1 and API2",
-        "Show IP status and ROM name on home launcher"
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
       ]
     }
   ]

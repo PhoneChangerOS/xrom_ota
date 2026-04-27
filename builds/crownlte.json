@@ -5,17 +5,21 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
   "builds": [
     {
-      "version": "v2.2",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776272400,
-      "size_bytes": 1451448316,
-      "filename": "XROM_crownlte-13.0-20260415-1700-OFFICIAL.zip",
-      "md5": "e7fb246968b40153710f153cfa976860",
-      "download_url": "https://drive.google.com/file/d/1aLcvf3abR6d0TrUGhQDu48_jWKlwk0oq/view?usp=sharing",
+      "date": 1777275300,
+      "size_bytes": 1450914337,
+      "filename": "XROM_crownlte-13.0-20260427-0735-OFFICIAL.zip",
+      "md5": "c4d29f21dbd0f85cc7a534e065c8b56f",
+      "download_url": "https://drive.google.com/file/d/11BhRM61pmdHgwj-ZO4AKx_hp5vQ8vgS-/view?usp=sharing",
       "changelog": [
-        "Improved XCam support for Camera API1 and API2",
-        "Show IP status and ROM name on home launcher"
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
       ]
     }
   ]

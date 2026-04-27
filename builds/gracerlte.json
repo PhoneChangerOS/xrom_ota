@@ -5,15 +5,22 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/gracerlte.png",
   "builds": [
     {
-      "version": "v2.3",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776403740,
-      "size_bytes": 1369778563,
-      "filename": "XROM_gracerlte-13.0-20260417-0529-OFFICIAL.zip",
-      "md5": "2579ab2eb66e2ed34b8c5bf771a722ed",
-      "download_url": "https://drive.google.com/file/d/1sz6ldeqd9eSP1z924TcIeWjVJwMxUXh4/view?usp=sharing",
-      "changelog": []
+      "date": 1777281900,
+      "size_bytes": 1369977075,
+      "filename": "XROM_gracerlte-13.0-20260427-0925-OFFICIAL.zip",
+      "md5": "7c2c5fe654da3280a610d2098c4d0c57",
+      "download_url": "https://drive.google.com/file/d/1nB1DVZ1gNi6lY8obLzCN5ARFx6uCemvC/view?usp=sharing",
+      "changelog": [
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
+      ]
     }
   ]
 }

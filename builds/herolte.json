@@ -5,15 +5,22 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/herolte.png",
   "builds": [
     {
-      "version": "v2.3",
+      "version": "v2.4",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1776400980,
-      "size_bytes": 1369566126,
-      "filename": "XROM_herolte-13.0-20260417-0443-OFFICIAL.zip",
-      "md5": "652d50239e06cf02f3e5b41fd7d9debe",
-      "download_url": "https://drive.google.com/file/d/1JL-xuaf0SIcQO4zILZLKkGVhUKnkFmVW/view?usp=sharing",
-      "changelog": []
+      "date": 1777280520,
+      "size_bytes": 1369124519,
+      "filename": "XROM_herolte-13.0-20260427-0902-OFFICIAL.zip",
+      "md5": "cfc97352aa96094a7b2a2f86b1b7fbbd",
+      "download_url": "https://drive.google.com/file/d/1XcAXr4pRTqPH5xoXgCRN2nSb6VB6fn_J/view?usp=sharing",
+      "changelog": [
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
+      ]
     }
   ]
 }

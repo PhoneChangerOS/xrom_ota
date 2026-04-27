@@ -1,0 +1,26 @@
+{
+  "codename": "greatlte",
+  "vendor": "Samsung",
+  "model": "Galaxy Note 8",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/greatlte.png",
+  "builds": [
+    {
+      "version": "v2.4",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1777279620,
+      "size_bytes": 1416655238,
+      "filename": "XROM_greatlte-13.0-20260427-0847-OFFICIAL.zip",
+      "md5": "e6dc288bb2fb8acf8acd532922c84331",
+      "download_url": "REPLACE_ME",
+      "changelog": [
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
+      ]
+    }
+  ]
+}

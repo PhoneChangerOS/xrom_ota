@@ -10,6 +10,7 @@
   { "codename": "gracerlte", "vendor": "Samsung", "model": "Galaxy Note FE", "active": true },
   { "codename": "dreamlte", "vendor": "Samsung", "model": "Galaxy S8", "active": true },
   { "codename": "dream2lte", "vendor": "Samsung", "model": "Galaxy S8+", "active": true },
+  { "codename": "greatlte", "vendor": "Samsung", "model": "Galaxy Note 8", "active": true },
   { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true },
   { "codename": "beyond1lte", "vendor": "Samsung", "model": "Galaxy S10", "active": false },
   { "codename": "beyond2lte", "vendor": "Samsung", "model": "Galaxy S10+", "active": false },

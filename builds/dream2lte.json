@@ -1,0 +1,26 @@
+{
+  "codename": "dream2lte",
+  "vendor": "Samsung",
+  "model": "Galaxy S8+",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/dream2lte.png",
+  "builds": [
+    {
+      "version": "v2.4",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1777278420,
+      "size_bytes": 1415684599,
+      "filename": "XROM_dream2lte-13.0-20260427-0827-OFFICIAL.zip",
+      "md5": "150d2b8f1a48de0160fa643d93ae5b02",
+      "download_url": "https://drive.google.com/file/d/1fuYu3pi28T71ZlbIl20rYwpw55znN-7C/view?usp=sharing",
+      "changelog": [
+        "Update for Zalo",
+        "Deeper change support",
+        "Fix SIM not detected when inserted",
+        "Fix timezone works correctly",
+        "Fix change android_id not working",
+        "Display fake uptime via SettingsUI"
+      ]
+    }
+  ]
+}

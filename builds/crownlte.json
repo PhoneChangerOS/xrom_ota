@@ -5,21 +5,20 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
   "builds": [
     {
-      "version": "v2.4",
+      "version": "v2.5",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1777275300,
-      "size_bytes": 1450914337,
-      "filename": "XROM_crownlte-13.0-20260427-0735-OFFICIAL.zip",
-      "md5": "c4d29f21dbd0f85cc7a534e065c8b56f",
-      "download_url": "https://drive.google.com/file/d/11BhRM61pmdHgwj-ZO4AKx_hp5vQ8vgS-/view?usp=sharing",
+      "date": 1778220720,
+      "size_bytes": 1450793195,
+      "filename": "XROM_crownlte-13.0-20260508-0612-OFFICIAL.zip",
+      "md5": "822176d48f4e08b0984bd9f39ca4a080",
+      "download_url": "https://drive.google.com/file/d/1ybZQvW6cCXPUCkZc5ZH9TeEYLG0N31Sy/view?usp=sharing",
       "changelog": [
-        "Update for Zalo",
-        "Deeper change support",
-        "Fix SIM not detected when inserted",
-        "Fix timezone works correctly",
-        "Fix change android_id not working",
-        "Display fake uptime via SettingsUI"
+        "Fix MoMo detect debug environments",
+        "Fix detect for latest Duck app",
+        "Add proxy support",
+        "XCam: select image for live streaming",
+        "Change MAC, WiFi SSID via SettingsUI"
       ]
     }
   ]

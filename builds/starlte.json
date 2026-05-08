@@ -5,21 +5,20 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
   "builds": [
     {
-      "version": "v2.4",
+      "version": "v2.5",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1777271880,
-      "size_bytes": 1450034357,
-      "filename": "XROM_starlte-13.0-20260427-0638-OFFICIAL.zip",
-      "md5": "c3745519fd312da6a94635d81b17e88b",
-      "download_url": "https://drive.google.com/file/d/1WxF1Hp5_vvVl59lVKrbKgzuGqm92HLzs/view?usp=sharing",
+      "date": 1778216820,
+      "size_bytes": 1449909754,
+      "filename": "XROM_starlte-13.0-20260508-0507-OFFICIAL.zip",
+      "md5": "b4101ee9f578057b42008a62782716e8",
+      "download_url": "https://drive.google.com/file/d/13DBD_21g6vjXSj3lI3MO5K5upaZqxOpg/view?usp=sharing",
       "changelog": [
-        "Update for Zalo",
-        "Deeper change support",
-        "Fix SIM not detected when inserted",
-        "Fix timezone works correctly",
-        "Fix change android_id not working",
-        "Display fake uptime via SettingsUI"
+        "Fix MoMo detect debug environments",
+        "Fix detect for latest Duck app",
+        "Add proxy support",
+        "XCam: select image for live streaming",
+        "Change MAC, WiFi SSID via SettingsUI"
       ]
     }
   ]

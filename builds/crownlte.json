@@ -5,20 +5,16 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
   "builds": [
     {
-      "version": "v2.5",
+      "version": "v2.6",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1778220720,
-      "size_bytes": 1450793195,
-      "filename": "XROM_crownlte-13.0-20260508-0612-OFFICIAL.zip",
-      "md5": "822176d48f4e08b0984bd9f39ca4a080",
-      "download_url": "https://drive.google.com/file/d/1ybZQvW6cCXPUCkZc5ZH9TeEYLG0N31Sy/view?usp=sharing",
+      "date": 1778317860,
+      "size_bytes": 1451609088,
+      "filename": "XROM_crownlte-13.0-20260509-0911-OFFICIAL.zip",
+      "md5": "179bb75e359eaa977f1da2e5e435c006",
+      "download_url": "https://drive.google.com/file/d/15cV-Y4I5G9R0AtaWQT_X9Zpf9EUmH2Kj/view?usp=sharing",
       "changelog": [
-        "Fix MoMo detect debug environments",
-        "Fix detect for latest Duck app",
-        "Add proxy support",
-        "XCam: select image for live streaming",
-        "Change MAC, WiFi SSID via SettingsUI"
+        "Fix 3meets SafetyNet"
       ]
     }
   ]

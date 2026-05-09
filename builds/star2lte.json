@@ -5,20 +5,16 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/star2lte.png",
   "builds": [
     {
-      "version": "v2.5",
+      "version": "v2.6",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1778218500,
-      "size_bytes": 1450164493,
-      "filename": "XROM_star2lte-13.0-20260508-0535-OFFICIAL.zip",
-      "md5": "46729a300870e86af155f58613c698fd",
-      "download_url": "https://drive.google.com/file/d/1rR8u6xrF2A1273yhwdt_gMc4EtWopcpS/view?usp=sharing",
+      "date": 1778314980,
+      "size_bytes": 1450907085,
+      "filename": "XROM_star2lte-13.0-20260509-0823-OFFICIAL.zip",
+      "md5": "b5db7f23a66a249d5e6be11a9de4fc22",
+      "download_url": "https://drive.google.com/file/d/1s1eY5FxTddEVHNDGMs-4hB_j86YwUR7S/view?usp=sharing",
       "changelog": [
-        "Fix MoMo detect debug environments",
-        "Fix detect for latest Duck app",
-        "Add proxy support",
-        "XCam: select image for live streaming",
-        "Change MAC, WiFi SSID via SettingsUI"
+        "Fix 3meets SafetyNet"
       ]
     }
   ]

@@ -1,0 +1,19 @@
+{
+  "codename": "star2lte",
+  "vendor": "Samsung",
+  "model": "Galaxy S9+",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/star2lte.png",
+  "builds": [
+    {
+      "version": "v3.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1779519600,
+      "size_bytes": 1450123462,
+      "filename": "XROM_star2lte-13.0-20260523-0700-OFFICIAL.zip",
+      "md5": "59e9a7f25b1a7f5bb8808d57eb779741",
+      "download_url": "https://drive.google.com/file/d/1_MbFPK7hlWVcyaN-h9RP4ZSzXWdJgXqU/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

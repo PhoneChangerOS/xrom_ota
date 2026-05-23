@@ -1,0 +1,19 @@
+{
+  "codename": "greatlte",
+  "vendor": "Samsung",
+  "model": "Galaxy Note 8",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/greatlte.png",
+  "builds": [
+    {
+      "version": "v3.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1779534420,
+      "size_bytes": 1416599127,
+      "filename": "XROM_greatlte-13.0-20260523-1107-OFFICIAL.zip",
+      "md5": "0408a3e6ba8350d09196d910bccf9e18",
+      "download_url": "https://drive.google.com/file/d/18urOuFSQr8lfxSk3wA2WcynrWQmWsC9W/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

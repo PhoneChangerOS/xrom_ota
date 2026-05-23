@@ -2,5 +2,6 @@
   { "codename": "starlte", "vendor": "Samsung", "model": "Galaxy S9", "active": true },
   { "codename": "star2lte", "vendor": "Samsung", "model": "Galaxy S9+", "active": true },
   { "codename": "crownlte", "vendor": "Samsung", "model": "Galaxy Note 9", "active": true },
-  { "codename": "dreamlte", "vendor": "Samsung", "model": "Galaxy S8", "active": true }
+  { "codename": "dreamlte", "vendor": "Samsung", "model": "Galaxy S8", "active": true },
+  { "codename": "dream2lte", "vendor": "Samsung", "model": "Galaxy S8+", "active": true }
 ]

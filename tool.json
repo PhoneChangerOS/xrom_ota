@@ -1,12 +1,10 @@
 {
   "xflash": {
     "name": "xFLASH",
-    "version": "v1.2.0",
-    "date": "2026-04-11",
+    "version": "v1.3.0",
+    "date": "2026-05-24",
     "size_bytes": 0,
-    "download_url": "https://drive.google.com/file/d/1AN-zHHYNKlRz6jplk0Lu--CuTvvkkxbA/view?usp=sharing",
-    "changelog": [
-      "Fix pixel flash rom missing viewport"
-    ]
+    "download_url": "https://drive.google.com/file/d/1yg6s6n6NoWol1kp13yiswMn4VJtMPzE9/view?usp=sharing",
+    "changelog": []
   }
 }

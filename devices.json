@@ -7,5 +7,6 @@
   { "codename": "greatlte", "vendor": "Samsung", "model": "Galaxy Note 8", "active": true },
   { "codename": "herolte", "vendor": "Samsung", "model": "Galaxy S7", "active": true },
   { "codename": "hero2lte", "vendor": "Samsung", "model": "Galaxy S7 Edge", "active": true },
-  { "codename": "gracerlte", "vendor": "Samsung", "model": "Galaxy Note FE", "active": true }
+  { "codename": "gracerlte", "vendor": "Samsung", "model": "Galaxy Note FE", "active": true },
+  { "codename": "sargo", "vendor": "Google", "model": "Pixel 3a", "active": true }
 ]

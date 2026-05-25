@@ -1,0 +1,19 @@
+{
+  "codename": "sargo",
+  "vendor": "Google",
+  "model": "Pixel 3a",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
+  "builds": [
+    {
+      "version": "v3.1",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1779699420,
+      "size_bytes": 1448699384,
+      "filename": "XROM_sargo-13.0-20260525-0857-OFFICIAL.zip",
+      "md5": "8757cfd7b776fa4d8d181b84f35d9387",
+      "download_url": "https://drive.google.com/file/d/1L49cvV-_M6mHIrugUWMzQPj-9LKtZyFc/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

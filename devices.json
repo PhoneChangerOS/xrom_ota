@@ -10,5 +10,6 @@
   { "codename": "gracerlte", "vendor": "Samsung", "model": "Galaxy Note FE", "active": true },
   { "codename": "sargo", "vendor": "Google", "model": "Pixel 3a", "active": true },
   { "codename": "coral", "vendor": "Google", "model": "Pixel 4 XL", "active": true },
-  { "codename": "flame", "vendor": "Google", "model": "Pixel 4", "active": true }
+  { "codename": "flame", "vendor": "Google", "model": "Pixel 4", "active": true },
+  { "codename": "bonito", "vendor": "Google", "model": "Pixel 3a XL", "active": true }
 ]

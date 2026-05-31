@@ -5,14 +5,14 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
-      "version": "v3.1",
+      "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1779699420,
-      "size_bytes": 1448699384,
-      "filename": "XROM_sargo-13.0-20260525-0857-OFFICIAL.zip",
-      "md5": "8757cfd7b776fa4d8d181b84f35d9387",
-      "download_url": "https://drive.google.com/file/d/1L49cvV-_M6mHIrugUWMzQPj-9LKtZyFc/view?usp=sharing",
+      "date": 1780221780,
+      "size_bytes": 1447802338,
+      "filename": "XROM_sargo-13.0-20260531-1003-OFFICIAL.zip",
+      "md5": "bce4b555d291067a7bf163a64ac8105d",
+      "download_url": "https://drive.google.com/file/d/13R6yKm3S3yzF5P0M7wZFuwEevli1eO-C/view?usp=sharing",
       "changelog": []
     }
   ]

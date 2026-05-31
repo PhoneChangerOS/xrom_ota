@@ -1,0 +1,19 @@
+{
+  "codename": "flame",
+  "vendor": "Google",
+  "model": "Pixel 4",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/flame.png",
+  "builds": [
+    {
+      "version": "v3.3",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1780213740,
+      "size_bytes": 1611336482,
+      "filename": "XROM_flame-13.0-20260531-0749-OFFICIAL.zip",
+      "md5": "56cf62c7276e2eb4574365f4387d2f85",
+      "download_url": "https://drive.google.com/file/d/13GmfBRbIc1sSHyX-_H2KDvvH--chhh_f/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

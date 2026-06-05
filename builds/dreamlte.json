@@ -5,14 +5,14 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/dreamlte.png",
   "builds": [
     {
-      "version": "v3.0",
+      "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1779530580,
-      "size_bytes": 1415659532,
-      "filename": "XROM_dreamlte-13.0-20260523-1003-OFFICIAL.zip",
-      "md5": "b19f32d52a8c22627fa8ba09f2b60a88",
-      "download_url": "https://drive.google.com/file/d/15qhr0TIj4PAUuAyXuDwSwQt2hVnIqgQ-/view?usp=sharing",
+      "date": 1780654020,
+      "size_bytes": 1414347877,
+      "filename": "XROM_dreamlte-13.0-20260605-1007-OFFICIAL.zip",
+      "md5": "bcfadd20eaa7eeede5f92c6deb420d68",
+      "download_url": "https://drive.google.com/file/d/15fO7flZQTWHIBwK3S-uxostY3KysnXY7/view?usp=sharing",
       "changelog": []
     }
   ]

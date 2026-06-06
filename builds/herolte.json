@@ -5,14 +5,14 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/herolte.png",
   "builds": [
     {
-      "version": "v3.0",
+      "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1779541020,
-      "size_bytes": 1369335191,
-      "filename": "XROM_herolte-13.0-20260523-1257-OFFICIAL.zip",
-      "md5": "2bf8cb3c6064ef1be3e61551759bc219",
-      "download_url": "https://drive.google.com/file/d/1lz7KKbz6meWNXK4LjCf0N_6eM0hjL_Fr/view?usp=sharing",
+      "date": 1780732560,
+      "size_bytes": 1368408232,
+      "filename": "XROM_herolte-13.0-20260606-0756-OFFICIAL.zip",
+      "md5": "4a9d06cded4e371b8657d84cd7ffdfad",
+      "download_url": "https://drive.google.com/file/d/1Sn07rECfhm4uoNR7hjrJ2dhfVoytSpea/view?usp=sharing",
       "changelog": []
     }
   ]

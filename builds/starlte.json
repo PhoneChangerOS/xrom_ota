@@ -5,14 +5,14 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
   "builds": [
     {
-      "version": "v3.0",
+      "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1779515700,
-      "size_bytes": 1449842647,
-      "filename": "XROM_starlte-13.0-20260523-0555-OFFICIAL.zip",
-      "md5": "a405301168d58b260e13bbbe4831be60",
-      "download_url": "https://drive.google.com/file/d/11_tlJU78oEbY7DBQXOdBgGx_iX49n04V/view?usp=sharing",
+      "date": 1783521900,
+      "size_bytes": 1450405028,
+      "filename": "XROM_starlte-13.0-20260708-1445-OFFICIAL.zip",
+      "md5": "943c7aee1f0dcc845755dc49839a3702",
+      "download_url": "https://drive.google.com/file/d/1mbIlgy4Zc-6_X7fCi4KbPm1bZj_9Iq8G/view?usp=sharing",
       "changelog": []
     }
   ]

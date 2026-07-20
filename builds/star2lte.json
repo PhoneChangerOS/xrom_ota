@@ -5,14 +5,14 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/star2lte.png",
   "builds": [
     {
-      "version": "v3.3",
+      "version": "lineage-20.0",
       "android": "Android 13",
       "variant": "OFFICIAL",
-      "date": 1783525320,
-      "size_bytes": 1450666861,
-      "filename": "XROM_star2lte-13.0-20260708-1542-OFFICIAL.zip",
-      "md5": "32216eb40e5028ba68155477f03925c5",
-      "download_url": "https://drive.google.com/file/d/1MbJ4D6_L8TbnTEYx9L_p3uWAGoJPJefs/view?usp=sharing",
+      "date": 1784524560,
+      "size_bytes": 1445330573,
+      "filename": "lineage-20.0-20260720-0516-OFFICIAL-star2lte.zip",
+      "md5": "b73d7f481c77dd8bc27ae063c4c4792e",
+      "download_url": "https://drive.google.com/file/d/1hlre2hP14-RoaclV7dXNjvhWCRCOR8XL/view?usp=sharing",
       "changelog": []
     }
   ]

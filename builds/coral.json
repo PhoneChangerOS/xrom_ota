@@ -1,0 +1,19 @@
+{
+  "codename": "coral",
+  "vendor": "Google",
+  "model": "Pixel 4 XL",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/coral.png",
+  "builds": [
+    {
+      "version": "lineage-20.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1784620800,
+      "size_bytes": 1608743108,
+      "filename": "lineage-20.0-20260721-0800-OFFICIAL-coral.zip",
+      "md5": "61d0f2e652958cf42d7228fbe15b29b0",
+      "download_url": "https://drive.google.com/file/d/1DAXIAqvqFJf2KryBUuG0ZX1-EGtIrz8L/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

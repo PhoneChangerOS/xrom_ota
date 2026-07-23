@@ -1,0 +1,19 @@
+{
+  "codename": "hero2lte",
+  "vendor": "Samsung",
+  "model": "Galaxy S7 Edge",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/hero2lte.png",
+  "builds": [
+    {
+      "version": "lineage-20.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1784799480,
+      "size_bytes": 1363522931,
+      "filename": "lineage-20.0-20260723-0938-OFFICIAL-hero2lte.zip",
+      "md5": "b9d81af48c8fbf5f0011f503f0c47a21",
+      "download_url": "https://drive.google.com/file/d/1uz4pDRjn4FA-sBU5aehjwNuNkAuWORsk/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

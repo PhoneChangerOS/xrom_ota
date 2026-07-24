@@ -1,0 +1,19 @@
+{
+  "codename": "dreamlte",
+  "vendor": "Samsung",
+  "model": "Galaxy S8",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/dreamlte.png",
+  "builds": [
+    {
+      "version": "lineage-20.0",
+      "android": "Android 13",
+      "variant": "OFFICIAL",
+      "date": 1784905140,
+      "size_bytes": 1408808196,
+      "filename": "lineage-20.0-20260724-1459-OFFICIAL-dreamlte.zip",
+      "md5": "0e47d3178c40a97f528adf742231da23",
+      "download_url": "https://drive.google.com/file/d/1qVfhlLtp-VxI3auP0M4vGfylh2afFvDA/view?usp=sharing",
+      "changelog": []
+    }
+  ]
+}

@@ -5,6 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
+      "version": "v4.0",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1789879020,
+      "size_bytes": 1644815407,
+      "filename": "XROM_sargo-14.0-20260920-0437-OFFICIAL.zip",
+      "md5": "79565e45dca717024a7978123791fd8d",
+      "download_url": "https://drive.google.com/file/d/1RKlkgzKZt5QTxOYW-2qayLuexsJtiLcf/view?usp=sharing",
+      "changelog": []
+    },
+    {
       "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",

@@ -5,6 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/bonito.png",
   "builds": [
     {
+      "version": "v4.0",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1789974780,
+      "size_bytes": 1644161627,
+      "filename": "XROM_bonito-14.0-20260921-0713-OFFICIAL.zip",
+      "md5": "c440444de34ee9f0948fa311d07b0660",
+      "download_url": "https://drive.google.com/file/d/1z_nYRbCKSrK3U0zVRlSmQzx4HuK7WpmR/view?usp=sharing",
+      "changelog": []
+    },
+    {
       "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",

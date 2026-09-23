@@ -5,6 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/flame.png",
   "builds": [
     {
+      "version": "v4.0",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790152020,
+      "size_bytes": 2061423299,
+      "filename": "XROM_flame-14.0-20260923-0827-OFFICIAL.zip",
+      "md5": "e329e9e1a976db4ef5a664dd30b67b31",
+      "download_url": "REPLACE_ME",
+      "changelog": []
+    },
+    {
       "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",

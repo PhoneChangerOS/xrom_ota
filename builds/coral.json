@@ -5,6 +5,17 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/coral.png",
   "builds": [
     {
+      "version": "v4.0",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790125140,
+      "size_bytes": 2061750957,
+      "filename": "XROM_coral-14.0-20260923-0059-OFFICIAL.zip",
+      "md5": "96d5e24d94caf65647a02c022b98710f",
+      "download_url": "https://drive.google.com/file/d/1b2OONTece3OBnC-cEtgt7k4hKDS9sZcV/view?usp=sharing",
+      "changelog": []
+    },
+    {
       "version": "v3.3",
       "android": "Android 13",
       "variant": "OFFICIAL",

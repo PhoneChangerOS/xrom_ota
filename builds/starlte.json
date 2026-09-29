@@ -12,7 +12,7 @@
       "size_bytes": 1529583179,
       "filename": "XROM_starlte-14.0-20260929-1341-OFFICIAL.zip",
       "md5": "25d03ff7da3356c5c5c1ff3c529f93c5",
-      "download_url": "REPLACE_ME",
+      "download_url": "https://drive.google.com/file/d/1lHj1gPqt2k-moLZA73lpz6HfnVAPqK8R/view?usp=sharing",
       "changelog": [
         "Camera: fix crash m_constructPipes + VIDIOC_S_FMT (chuyển BSP về prebuilt, stock libhwjpeg + libexynosv4l2)",
         "Boot: fix libion/libprocessgroup cho prebuilt HAL",

@@ -3,6 +3,7 @@
   "vendor": "Samsung",
   "model": "Galaxy S9",
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/starlte.png",
+  "recovery_url": "REPLACE_ME",
   "builds": [
     {
       "version": "v4.0",

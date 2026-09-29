@@ -13,7 +13,7 @@
       "size_bytes": 1529814425,
       "filename": "XROM_star2lte-14.0-20260929-1516-OFFICIAL.zip",
       "md5": "3a7ffc0409fb52dfc871b1bd217c2028",
-      "download_url": "REPLACE_ME",
+      "download_url": "https://drive.google.com/file/d/10XmA-6j7DGVBnCYwBugKPGt5ZDQvK_Fy/view?usp=sharing",
       "changelog": [
         "Camera: fix crash m_constructPipes + VIDIOC_S_FMT (prebuilt BSP: stock libhwjpeg + libexynosv4l2)",
         "Boot: fix libion/libprocessgroup cho prebuilt HAL",

@@ -13,7 +13,7 @@
       "size_bytes": 1530489152,
       "filename": "XROM_crownlte-14.0-20260930-0012-OFFICIAL.zip",
       "md5": "b343a373714d6c06eba22fb0508b3e08",
-      "download_url": "REPLACE_ME",
+      "download_url": "https://drive.google.com/file/d/1sg6baRIzamahjqro_aIJKHPMZdbj8gKx/view?usp=sharing",
       "changelog": [
         "Camera: fix crash m_constructPipes + VIDIOC_S_FMT (prebuilt BSP: stock libhwjpeg + libexynosv4l2)",
         "Boot: fix libion/libprocessgroup cho prebuilt HAL",

@@ -3,17 +3,24 @@
   "vendor": "Samsung",
   "model": "Galaxy Note 9",
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
+  "recovery_url": "REPLACE_ME",
   "builds": [
     {
-      "version": "v3.0",
-      "android": "Android 13",
+      "version": "v4.0",
+      "android": "Android 14",
       "variant": "OFFICIAL",
-      "date": 1779521760,
-      "size_bytes": 1450790785,
-      "filename": "XROM_crownlte-13.0-20260523-0736-OFFICIAL.zip",
-      "md5": "cf6573b6a598da65c9da3b5d9f912300",
+      "date": 1790727120,
+      "size_bytes": 1530489152,
+      "filename": "XROM_crownlte-14.0-20260930-0012-OFFICIAL.zip",
+      "md5": "b343a373714d6c06eba22fb0508b3e08",
       "download_url": "REPLACE_ME",
-      "changelog": []
+      "changelog": [
+        "Camera: fix crash m_constructPipes + VIDIOC_S_FMT (prebuilt BSP: stock libhwjpeg + libexynosv4l2)",
+        "Boot: fix libion/libprocessgroup cho prebuilt HAL",
+        "Anti-detect: ẩn app root/custom-ROM (AppsFilter) + ẩn binder service (ServiceHideHooks)",
+        "Spoof: SIM data-state (TelephonyRegistry) + serial (Build.getSerial())",
+        "Bring-up Note 9 (crownlte): share exynos9810-common với S9/S9+, keymaster libcrypto-v33"
+      ]
     }
   ]
 }

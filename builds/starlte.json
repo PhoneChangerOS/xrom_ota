@@ -6,6 +6,17 @@
   "recovery_url": "https://gofile.io/d/ZR02aVK8",
   "builds": [
     {
+      "version": "v4.1",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790860260,
+      "size_bytes": 1531218326,
+      "filename": "XROM_starlte-14.0-20261001-1311-OFFICIAL.zip",
+      "md5": "5dcd23069bb47471b78045042a370e00",
+      "download_url": "REPLACE_ME",
+      "changelog": []
+    },
+    {
       "version": "v4.0",
       "android": "Android 14",
       "variant": "OFFICIAL",

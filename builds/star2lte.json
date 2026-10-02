@@ -14,7 +14,12 @@
       "filename": "XROM_star2lte-14.0-20261001-2317-OFFICIAL.zip",
       "md5": "d1a86e3953cb41739f66ec6ea3e7c7e5",
       "download_url": "https://drive.google.com/file/d/1SEAk5k9HsCyMbUqnnvaiq7PHkvITDdvN/view?usp=sharing",
-      "changelog": []
+      "changelog": [
+        "Fix lỗi audio",
+        "Fix lag video TikTok, YouTube, ...",
+        "Spoof ROM sâu hơn",
+        "Xcam"
+      ]
     },
     {
       "version": "v4.0",

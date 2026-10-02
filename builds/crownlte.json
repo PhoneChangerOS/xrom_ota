@@ -6,6 +6,22 @@
   "recovery_url": "https://gofile.io/d/BALHZHJT",
   "builds": [
     {
+      "version": "v4.1",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790899920,
+      "size_bytes": 1532070629,
+      "filename": "XROM_crownlte-14.0-20261002-0012-OFFICIAL.zip",
+      "md5": "cc2e4444f63daf1092bdea5b1961098f",
+      "download_url": "https://drive.google.com/file/d/1LfBlcx4qk_5yeiC65C-epXEb-MHvQXzY/view?usp=sharing",
+      "changelog": [
+        "Fix lỗi audio",
+        "Fix lag video TikTok, YouTube, ...",
+        "Spoof ROM sâu hơn",
+        "Xcam"
+      ]
+    },
+    {
       "version": "v4.0",
       "android": "Android 14",
       "variant": "OFFICIAL",

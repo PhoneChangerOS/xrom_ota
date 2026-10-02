@@ -3,8 +3,19 @@
   "vendor": "Samsung",
   "model": "Galaxy S9+",
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/star2lte.png",
-  "recovery_url": "https://gofile.io/d/ixDEm5Nk",
+  "recovery_url": "https://gofile.io/d/g5rxUBFb",
   "builds": [
+    {
+      "version": "v4.1",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790896620,
+      "size_bytes": 1531430959,
+      "filename": "XROM_star2lte-14.0-20261001-2317-OFFICIAL.zip",
+      "md5": "d1a86e3953cb41739f66ec6ea3e7c7e5",
+      "download_url": "https://drive.google.com/file/d/1SEAk5k9HsCyMbUqnnvaiq7PHkvITDdvN/view?usp=sharing",
+      "changelog": []
+    },
     {
       "version": "v4.0",
       "android": "Android 14",

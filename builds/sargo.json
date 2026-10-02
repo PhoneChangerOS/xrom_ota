@@ -5,6 +5,21 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
+      "version": "v4.1",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1790915520,
+      "size_bytes": 1645806300,
+      "filename": "XROM_sargo-14.0-20261002-0432-OFFICIAL.zip",
+      "md5": "fafdf7ee2ce717c5c98d60204a0ad930",
+      "download_url": "https://drive.google.com/file/d/1NVrQSGcDiz7Vkpe3C8Vyd1qcFohFC9eL/view?usp=sharing",
+      "changelog": [
+        "Fix backup restore bị treo",
+        "Spoof ROM sâu hơn",
+        "Thêm app Xcam"
+      ]
+    },
+    {
       "version": "v4.0",
       "android": "Android 14",
       "variant": "OFFICIAL",

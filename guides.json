@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "default": "pixel",
+  "overrides": {
+    "starlte": "samsung_exynos",
+    "star2lte": "samsung_exynos",
+    "crownlte": "samsung_exynos",
+    "dreamlte": "samsung_exynos",
+    "dream2lte": "samsung_exynos",
+    "greatlte": "samsung_exynos",
+    "herolte": "samsung_exynos",
+    "hero2lte": "samsung_exynos",
+    "gracerlte": "samsung_exynos"
+  },
+  "platformKeys": {
+    "exynos": "samsung_exynos",
+    "samsung": "samsung_exynos"
+  },
+  "guides": {
+    "pixel": {
+      "title": "Hướng dẫn cài XROM",
+      "intro": ["⚠️ Cài mới sẽ *XOÁ SẠCH dữ liệu*. Sao lưu trước."],
+      "sections": [
+        {
+          "heading": "1. Chuẩn bị (PC)",
+          "bullets": [
+            "Cài *ADB + Fastboot* (platform-tools của Google).",
+            "Tải file ROM `.zip` (bấm *⬇️ Tải bản này*)."
+          ]
+        },
+        {
+          "heading": "2. Mở khoá bootloader (chỉ lần đầu — XOÁ DATA)",
+          "bullets": [
+            "Cài đặt → *Giới thiệu* → bấm *Số hiệu bản dựng* 7 lần để bật *Tuỳ chọn nhà phát triển*.",
+            "Bật *OEM unlocking* + *USB debugging*."
+          ],
+          "code": ["adb reboot bootloader", "fastboot flashing unlock"],
+          "note": "→ Trên máy chọn *Unlock the bootloader* (phím âm lượng chọn, nguồn xác nhận)."
+        },
+        {
+          "heading": "3. Vào Recovery",
+          "code": ["adb reboot recovery"],
+          "note": "(hoặc ở bootloader dùng phím âm lượng chọn *Recovery mode* → nguồn). Trong recovery chọn *Apply update from ADB*."
+        },
+        {
+          "heading": "4. Cài ROM (sideload)",
+          "code": ["adb sideload XROM_{codename}-*.zip"]
+        },
+        {
+          "heading": "5. (Cài mới sạch) Xoá dữ liệu",
+          "bullets": ["Trong recovery chọn *Factory reset / Wipe data* (lần đầu từ ROM stock nên wipe)."],
+          "note": "→ Chỉ *update* (giữ dữ liệu): *bỏ qua* bước này."
+        },
+        {
+          "heading": "6. Khởi động lại",
+          "bullets": ["Chọn *Reboot system now*. Lần boot đầu mất vài phút."]
+        }
+      ]
+    },
+    "samsung_exynos": {
+      "title": "Hướng dẫn cài XROM",
+      "intro": [
+        "⚠️ Máy Samsung Exynos *không dùng fastboot*. Cài qua *recovery (TWRP) của XROM*.",
+        "⚠️ Cài mới sẽ *XOÁ SẠCH dữ liệu*. Sao lưu trước."
+      ],
+      "sections": [
+        {
+          "heading": "1. Chuẩn bị (PC)",
+          "bullets": [
+            "Cài *ADB* (platform-tools của Google).",
+            "Tải file ROM `.zip` (bấm *⬇️ Tải bản này*)."
+          ]
+        },
+        {
+          "heading": "2. Vào Recovery (TWRP của XROM)",
+          "bullets": [
+            "Máy đang bật + có USB debugging: `adb reboot recovery`.",
+            "Hoặc thủ công: tắt máy → giữ *Volume Up + Bixby + Nguồn* tới khi vào recovery."
+          ]
+        },
+        {
+          "heading": "3. Cắm máy vào PC (đang ở recovery)",
+          "bullets": ["Kiểm tra máy nhận: `adb devices` (thấy máy ở chế độ recovery/sideload)."]
+        },
+        {
+          "heading": "4. Cài ROM — cách 1 (push + install)",
+          "code": [
+            "adb push XROM_{codename}-*.zip /sdcard/rom.zip",
+            "adb shell recovery install /sdcard/rom.zip"
+          ],
+          "note": "*Hoặc cách 2 (sideload):* `adb sideload XROM_{codename}-*.zip`"
+        },
+        {
+          "heading": "5. (Cài mới sạch) Xoá dữ liệu",
+          "code": ["adb shell recovery wipe data", "adb shell recovery wipe cache"],
+          "note": "→ Chỉ *update* (giữ dữ liệu): *bỏ qua* bước này."
+        },
+        {
+          "heading": "6. Khởi động lại",
+          "code": ["adb reboot"],
+          "note": "(hoặc chọn *Reboot → System* trong recovery). Lần boot đầu mất vài phút."
+        },
+        {
+          "heading": "Lần đầu từ ROM stock (chưa có recovery XROM)",
+          "bullets": ["Vào *Download mode* (Volume Down + Bixby + Nguồn) → dùng *Odin/Heimdall* flash *recovery của XROM* (file `recovery-*.tar`/`.img`) — thay recovery stock — rồi làm từ *bước 2*."]
+        }
+      ]
+    }
+  }
+}

@@ -18,14 +18,18 @@
   },
   "guides": {
     "pixel": {
-      "title": "Hướng dẫn cài XROM",
-      "intro": ["⚠️ Cài mới sẽ *XOÁ SẠCH dữ liệu*. Sao lưu trước."],
+      "title": "Hướng dẫn cài XROM (Pixel)",
+      "intro": [
+        "Dùng *fastboot* + script flash kèm trong gói — *không TWRP* (recovery nằm sẵn trong boot.img).",
+        "⚠️ *Mở khoá bootloader sẽ XOÁ SẠCH data* (chỉ lần đầu)."
+      ],
       "sections": [
         {
           "heading": "1. Chuẩn bị (PC)",
           "bullets": [
-            "Cài *ADB + Fastboot* (platform-tools của Google).",
-            "Tải file ROM `.zip` (bấm *⬇️ Tải bản này*)."
+            "Cài *platform-tools* (adb + fastboot) *bản mới* — bản cũ không đọc được ROM >4GB (coral/flame).",
+            "(Windows) cài *driver USB Google*.",
+            "Tải *gói XROM* (bấm *⬇️ Tải bản này*) rồi *giải nén* — bên trong có `flash-rom.sh`, `flash-rom.bat` và thư mục `rom/`."
           ]
         },
         {
@@ -35,25 +39,41 @@
             "Bật *OEM unlocking* + *USB debugging*."
           ],
           "code": ["adb reboot bootloader", "fastboot flashing unlock"],
-          "note": "→ Trên máy chọn *Unlock the bootloader* (phím âm lượng chọn, nguồn xác nhận)."
+          "note": "→ Trên máy chọn *Unlock the bootloader* (âm lượng chọn, nguồn xác nhận)."
         },
         {
-          "heading": "3. Vào Recovery",
-          "code": ["adb reboot recovery"],
-          "note": "(hoặc ở bootloader dùng phím âm lượng chọn *Recovery mode* → nguồn). Trong recovery chọn *Apply update from ADB*."
+          "heading": "3. Flash ROM — Linux / Git Bash",
+          "bullets": ["Mở terminal *trong thư mục vừa giải nén* rồi chạy:"],
+          "code": [
+            "./flash-rom.sh              # GIỮ data (mặc định)",
+            "./flash-rom.sh -w           # flash + WIPE (gõ WIPE để xác nhận)",
+            "./flash-rom.sh --rom-only   # chỉ update rom, bỏ bootloader+radio",
+            "./flash-rom.sh --dry-run    # chỉ in lệnh, không chạy"
+          ],
+          "note": "Cắm nhiều máy thì thêm `-s <serial>`."
         },
         {
-          "heading": "4. Cài ROM (sideload)",
-          "code": ["adb sideload XROM_{codename}-*.zip"]
+          "heading": "3b. Flash ROM — Windows",
+          "bullets": [
+            "Double-click `flash-rom.bat` (giữ data), hoặc mở CMD trong thư mục rồi gõ:"
+          ],
+          "code": ["flash-rom.bat            :: giữ data", "flash-rom.bat -w         :: flash + wipe"],
+          "note": "⚠️ *Không dùng WSL* (WSL không thấy USB). Dùng *Git Bash* hoặc *CMD*."
         },
         {
-          "heading": "5. (Cài mới sạch) Xoá dữ liệu",
-          "bullets": ["Trong recovery chọn *Factory reset / Wipe data* (lần đầu từ ROM stock nên wipe)."],
-          "note": "→ Chỉ *update* (giữ dữ liệu): *bỏ qua* bước này."
+          "heading": "4. Giữ data hay wipe",
+          "bullets": [
+            "Mặc định *giữ data* — update trong cùng dòng XROM cùng key chạy bình thường.",
+            "Phải *wipe* (`-w`) khi: nhảy từ ROM khác sang, build đổi key ký, hoặc bootloop sau khi giữ data. Xoá sạch app + bộ nhớ trong, không hoàn tác."
+          ]
         },
         {
-          "heading": "6. Khởi động lại",
-          "bullets": ["Chọn *Reboot system now*. Lần boot đầu mất vài phút."]
+          "heading": "5. Lưu ý an toàn",
+          "bullets": [
+            "Pin > 50%. *Không rút cáp* lúc flash (bước update ~5–15 phút).",
+            "Không chắc thì chạy `--dry-run` xem lệnh trước.",
+            "Giữ lại gói đã tải để lần sau update nhanh."
+          ]
         }
       ]
     },

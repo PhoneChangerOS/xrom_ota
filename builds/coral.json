@@ -5,6 +5,23 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/coral.png",
   "builds": [
     {
+      "version": "v4.2",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791275340,
+      "size_bytes": 1784466530,
+      "filename": "XROM_coral-14.0-v4.2-20261006-0829-OFFICIAL.zip",
+      "md5": "0e6e52f29d38d9c408850c7455ec6165",
+      "download_url": "https://drive.google.com/file/d/1vHXKtb72F22pAxow-LppettnQJOyGW0G/view?usp=sharing",
+      "changelog": [
+        "Fix 3 meets (Play Integrity STRONG)",
+        "Đổi một số trường cho khớp phiên bản Android",
+        "Fix mismatch các trường spoof không khớp",
+        "Fix backup restore bị treo",
+        "Thêm app Xcam"
+      ]
+    },
+    {
       "version": "v4.0",
       "android": "Android 14",
       "variant": "OFFICIAL",

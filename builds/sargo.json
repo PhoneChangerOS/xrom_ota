@@ -5,6 +5,21 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/sargo.png",
   "builds": [
     {
+      "version": "v4.2",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791270180,
+      "size_bytes": 1645867197,
+      "filename": "XROM_sargo-14.0-v4.2-20261006-0703-OFFICIAL.zip",
+      "md5": "34ca5f99e62c4d76784a7a4e7a20f5d9",
+      "download_url": "https://drive.google.com/file/d/1FHv79FZF0-k2zXCiJrmwFJZqWqJ-JrY1/view?usp=sharing",
+      "changelog": [
+        "Fix 3 meets (Play Integrity STRONG)",
+        "Đổi một số trường cho khớp phiên bản Android",
+        "Fix mismatch các trường spoof không khớp"
+      ]
+    },
+    {
       "version": "v4.1",
       "android": "Android 14",
       "variant": "OFFICIAL",

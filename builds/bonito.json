@@ -5,6 +5,21 @@
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/bonito.png",
   "builds": [
     {
+      "version": "v4.2",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791272580,
+      "size_bytes": 1645221217,
+      "filename": "XROM_bonito-14.0-v4.2-20261006-0743-OFFICIAL.zip",
+      "md5": "1fe85858359ee3887a45e53e06950bc1",
+      "download_url": "https://drive.google.com/file/d/1nH5j6dmOqJjAwdxzt7wVxmoQXNM-7jg2/view?usp=sharing",
+      "changelog": [
+        "Fix 3 meets (Play Integrity STRONG)",
+        "Đổi một số trường cho khớp phiên bản Android",
+        "Fix mismatch các trường spoof không khớp"
+      ]
+    },
+    {
       "version": "v4.0",
       "android": "Android 14",
       "variant": "OFFICIAL",

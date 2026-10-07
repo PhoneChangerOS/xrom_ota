@@ -1,0 +1,23 @@
+{
+  "codename": "d1x",
+  "vendor": "Samsung",
+  "model": "Galaxy Note 10 5G",
+  "platform": "exynos9820",
+  "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/d1x.png",
+  "recovery_url": "https://drive.google.com/file/d/15XIzjdwBqkDoclKMcmkluVkRbpSKIK0B/view?usp=sharing",
+  "builds": [
+    {
+      "version": "v4.2",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791303060,
+      "size_bytes": 1609167530,
+      "filename": "XROM_d1x-14.0-v4.2-20261006-1611-OFFICIAL.zip",
+      "md5": "4b84c5251c6141e0ca39659c04313a89",
+      "download_url": "https://drive.google.com/file/d/1y9pss8OuxRrIAKXwHHjw_XwQSEqffnOs/view?usp=sharing",
+      "changelog": [
+        "Bản build đầu tiên cho Galaxy Note 10 5G (d1x)"
+      ]
+    }
+  ]
+}

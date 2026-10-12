@@ -6,6 +6,24 @@
   "recovery_url": "https://gofile.io/d/uhiFitGj",
   "builds": [
     {
+      "version": "v4.3",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791797280,
+      "size_bytes": 1556962468,
+      "filename": "XROM_starlte-14.0-v4.3-20261012-0928-OFFICIAL.zip",
+      "md5": "cfc63fb3abef7c255e2568fb04207e08",
+      "download_url": "https://drive.google.com/file/d/1KsZ0OzIu0vvneVMgW2u0bkNrntBOofpH/view?usp=sharing",
+      "changelog": [
+        "Fix lỗi TikTok không vào được Shop và dính captcha",
+        "Proxy: apply nhanh hơn, báo lỗi ngay nếu proxy chết, hiện tiến trình từng bước",
+        "Proxy: múi giờ khớp đúng quốc gia IP",
+        "Fix lỗi login CH Play bị màn hình đen",
+        "Fix lỗi khởi động chậm (boot)",
+        "Yêu cầu dùng Tool Xviewer 0.40.2 trở lên"
+      ]
+    },
+    {
       "version": "v4.1",
       "android": "Android 14",
       "variant": "OFFICIAL",

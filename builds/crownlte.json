@@ -3,8 +3,28 @@
   "vendor": "Samsung",
   "model": "Galaxy Note 9",
   "image_url": "https://raw.githubusercontent.com/PhoneChangerOS/xrom_ota/main/images/crownlte.png",
-  "recovery_url": "https://gofile.io/d/BALHZHJT",
+  "recovery_url": "https://gofile.io/d/vrOJ2FTj",
   "builds": [
+    {
+      "version": "v4.4",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791895620,
+      "size_bytes": 1558664417,
+      "filename": "XROM_crownlte-14.0-v4.4-20261013-1247-OFFICIAL.zip",
+      "md5": "e09b592816598461d8031ea8f5298508",
+      "download_url": "https://drive.google.com/file/d/1yVyiFqGiaPY0FKDva7rUPtfljPQcic4F/view?usp=sharing",
+      "changelog": [
+        "Fix lỗi TikTok không vào được Shop và dính captcha",
+        "Tối ưu sâu hơn những điểm linh tinh chưa change",
+        "Backup/Restore app kèm APK (tùy chọn), tự cài lại app sau khi khôi phục",
+        "Fix wipe wifi không quên mạng (forget) sau khi khởi động lại",
+        "Proxy: apply nhanh hơn, báo lỗi ngay nếu proxy chết, hiện tiến trình; múi giờ khớp quốc gia IP",
+        "Fix lỗi login CH Play bị màn hình đen",
+        "Fix lỗi khởi động chậm (boot)",
+        "Yêu cầu dùng Tool Xviewer 0.40.4 trở lên"
+      ]
+    },
     {
       "version": "v4.1",
       "android": "Android 14",

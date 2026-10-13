@@ -6,6 +6,22 @@
   "recovery_url": "https://gofile.io/d/uhiFitGj",
   "builds": [
     {
+      "version": "v4.4",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791882000,
+      "size_bytes": 1557840786,
+      "filename": "XROM_starlte-14.0-v4.4-20261013-0900-OFFICIAL.zip",
+      "md5": "3aa386a47f0296a810fd273e3b4aabf3",
+      "download_url": "https://gofile.io/d/TWsZg15X",
+      "changelog": [
+        "Tối ưu sâu hơn những điểm linh tinh chưa change",
+        "Backup/Restore app kèm APK (tùy chọn), tự cài lại app sau khi khôi phục",
+        "Fix wipe wifi không quên mạng (forget) sau khi khởi động lại",
+        "Yêu cầu dùng Tool Xviewer 0.40.4 trở lên"
+      ]
+    },
+    {
       "version": "v4.3",
       "android": "Android 14",
       "variant": "OFFICIAL",

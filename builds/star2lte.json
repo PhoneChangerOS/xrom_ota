@@ -6,6 +6,26 @@
   "recovery_url": "https://gofile.io/d/g5rxUBFb",
   "builds": [
     {
+      "version": "v4.4",
+      "android": "Android 14",
+      "variant": "OFFICIAL",
+      "date": 1791884940,
+      "size_bytes": 1558049475,
+      "filename": "XROM_star2lte-14.0-v4.4-20261013-0949-OFFICIAL.zip",
+      "md5": "ca7dce3d8fb34da3f96883343e8e114f",
+      "download_url": "https://gofile.io/d/j6MQRc3F",
+      "changelog": [
+        "Fix lỗi TikTok không vào được Shop và dính captcha",
+        "Tối ưu sâu hơn những điểm linh tinh chưa change",
+        "Backup/Restore app kèm APK (tùy chọn), tự cài lại app sau khi khôi phục",
+        "Fix wipe wifi không quên mạng (forget) sau khi khởi động lại",
+        "Proxy: apply nhanh hơn, báo lỗi ngay nếu proxy chết, hiện tiến trình; múi giờ khớp quốc gia IP",
+        "Fix lỗi login CH Play bị màn hình đen",
+        "Fix lỗi khởi động chậm (boot)",
+        "Yêu cầu dùng Tool Xviewer 0.40.4 trở lên"
+      ]
+    },
+    {
       "version": "v4.1",
       "android": "Android 14",
       "variant": "OFFICIAL",
